@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+    },
+    "exclude": [
+        "node_modules",
+        "bower_components"
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+
+}
